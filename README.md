@@ -70,7 +70,7 @@ Typical pin usage (based on the example code):
 
 ## Code Overview
 
-Main source file: `door_lock_alarm.c` (original name: `test22.c`, placed under the `code/` folder).
+Main source file: `door_lock_alarm.c`
 
 Key points:
 
